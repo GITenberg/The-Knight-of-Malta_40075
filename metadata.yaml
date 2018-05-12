@@ -1,0 +1,30 @@
+_repo: The-Knight-of-Malta_40075
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sue, Eugène
+    aliases:
+    - Sue, Marie Joseph
+    - Sue, Eugene
+    birthdate: 1804
+    deathdate: 1857
+    gutenberg_agent_id: '1186'
+    url: http://www.gutenberg.org/2009/agents/1186
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
+description: ''
+gutenberg_issued: '2012-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40075'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 19th century'
+title: The Knight of Malta
+url: http://www.gutenberg.org/ebooks/40075
